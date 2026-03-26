@@ -36,7 +36,7 @@
 
     <h3>3. 运行 / 使用</h3>
     <pre><code># 直接打开 index.html 即可使用
-# 或根据你的项目类型填写启动命令</code></pre>
+# 启动</code></pre>
 </div>
 
 <div class="section">
