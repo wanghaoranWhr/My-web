@@ -29,10 +29,9 @@
 </div>
 
 <div class="section">
-    <h2>🚀 快速开始</h2>
-    <h3>1. 克隆项目</h3>
-    <pre><code>git clone https://github.com/你的用户名/项目名.git</code></pre>
-
+    <h2>🚀 准备</h2>
+    <h3>1. 配置要求</h3>
+    首先，确保你的计算机上已经安装python和pytorch，也可应用Google提供的colab完成代码实现。
     <h3>2. 进入目录</h3>
     <pre><code>cd 项目名</code></pre>
 
